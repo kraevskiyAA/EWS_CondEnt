@@ -1,0 +1,8 @@
+README.md
+setup.py
+EWS_CondEnt.egg-info/PKG-INFO
+EWS_CondEnt.egg-info/SOURCES.txt
+EWS_CondEnt.egg-info/dependency_links.txt
+EWS_CondEnt.egg-info/not-zip-safe
+EWS_CondEnt.egg-info/requires.txt
+EWS_CondEnt.egg-info/top_level.txt
