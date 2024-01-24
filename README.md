@@ -1,6 +1,6 @@
 # Early warning system for concept drift detection
 
-Artem Kraevskiy, Evgeniy Sokolovskiy, Artem Prokhorov.
+Artem Kraevskiy, Artem Prokhorov, Evgeniy Sokolovskiy.
 
 This repository contains code and examples of EWS for online concept drift detection.
 
