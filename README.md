@@ -12,7 +12,7 @@ Finally, we show the consistency of EWS’ results on synthetic data and apply t
 
 ## Installing
 
-Run to install local package EWS_CONDENT and other required packages:
+Run to install local package EWS_CondEnt and other required packages:
 
 ```
 pip install -e .
