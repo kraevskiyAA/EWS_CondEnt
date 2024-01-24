@@ -26,3 +26,8 @@ One can find the examples from the original paper in "Examples/Synthetic_data.ip
 ## Application towards Usbekistan financial market
 
 The anticipated results for Uzbekistan financial markets are located in "Examples/Usbekistan_FinMarkets.ipynb". The original data is located in "Data/df_cond_ent.csv".
+
+
+## Contacts
+
+If you have any questions about this repository, please, contact authors at akraevskiy@hse.ru
