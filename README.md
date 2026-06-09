@@ -21,9 +21,6 @@ EWS_condent/
 ├── CondEnt/
 │   ├── CondEnt_RFCDE.py           # Conditional entropy estimation (linear & LLF models)
 │   └── CondEnt_RFCDE_correct_ranks.py  # Variant with corrected rank transformations
-├── Data/
-│   ├── df_Rus_Fin_Markets.csv     # Russian financial markets data
-│   └── df_cond_ent.csv            # Uzbekistan market data
 ├── Examples/
 │   ├── Synthetic_data.ipynb       # Experiments from the paper on synthetic data
 │   └── New_ranks_experimets.ipynb # Rank correction experiments
